@@ -8,9 +8,9 @@ Welcome to visit my github profile, here you can see all my works and open sourc
 - 👯 I’m actively looking for a new job
 - 👨‍💻 My favorite programming language: javascript
 - 🖊️ My tech blog: [dev.to](https://dev.to/lwz7512)
-- 💬 Ask me about : [`Gatsbyjs`](https://www.gatsbyjs.com/) or [Next.js](https://nextjs.org/)
+- 💬 Ask me about : [Gatsbyjs](https://www.gatsbyjs.com/) or [Next.js](https://nextjs.org/)
 - 📫 How to reach me: lwz7512@gmail.com
-- ⚡ Fun fact: `I have a childlike heart`, `I would like to do something simple`
+- ⚡ Fun facts: `I have a childlike heart`, `I am a single thread animal`
 
 ### Open Source Projects
 
