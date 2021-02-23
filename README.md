@@ -9,6 +9,7 @@ Welcome to visit my github profile, here you can see all my works and open sourc
 - 👨‍💻 My favorite programming language: javascript
 - 🖊️ My tech blog: [dev.to](https://dev.to/lwz7512)
 - 📦 My portfolio: [wenzhi.me](http://wenzhi.netlify.app/)
+- 🔋 Some projects built when I was in China:[Mobile Apps](https://lwz7512.github.io/works/)
 - 💬 Ask me about : [Gatsbyjs](https://www.gatsbyjs.com/) or [Next.js](https://nextjs.org/)
 - 📫 How to reach me: lwz7512@gmail.com
 - ⚡ Fun facts: `I have a childlike heart`, `I am a single thread animal`
