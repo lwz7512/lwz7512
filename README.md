@@ -18,6 +18,7 @@ Welcome to visit my github profile, here you can see all my works and open sourc
 
 latest first:
 
+- [Ivory Blog](https://github.com/lwz7512/next-ivory-blog)
 - [Minimal Dev.to Blog Publisher](https://github.com/lwz7512/dev_to_blog)
 - [gatsby-starter-wordpress-blog](https://github.com/lwz7512/gatsby-starter-wordpress-blog)
 - [Godot Academy](https://github.com/lwz7512/godot-academy)
