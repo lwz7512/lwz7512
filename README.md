@@ -4,9 +4,7 @@ Welcome to visit my github profile, here you can see all my works and open sourc
 
 ### About
 
-- 🔭 I’m currently working on : [WP4Speed](https://www.wp4speed.com)
-- 👯 I’m actively looking for a new job
-- 👨‍💻 My favorite programming language: javascript
+- 🔭 I’m currently working on : [Headless Wordpress](https://github.com/lwz7512/next-wordpress-movie)
 - 🖊️ My tech blog: [dev.to](https://dev.to/lwz7512)
 - 📦 My portfolio: [wenzhi.me](http://wenzhi.netlify.app/)
 - 🔋 Some projects built when I was in China:[Mobile Apps](https://lwz7512.github.io/works/)
