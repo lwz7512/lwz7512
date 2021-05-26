@@ -16,6 +16,7 @@ Welcome to visit my github profile, here you can see all my works and open sourc
 
 latest first:
 
+- [Next Wordpress with ACF](https://github.com/lwz7512/next-wordpress-movie)
 - [Next static wordpress](https://github.com/lwz7512/next-static-neve)
 - [Ivory Blog](https://github.com/lwz7512/next-ivory-blog)
 - [Minimal Dev.to Blog Publisher](https://github.com/lwz7512/dev_to_blog)
