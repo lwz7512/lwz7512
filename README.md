@@ -27,5 +27,6 @@ latest first:
 - [Asteroid fighter based on love2d](https://github.com/lwz7512/love2d-asteroid-fighter)
 - [Reflex Studio](https://github.com/lwz7512/reflex-studio)
 - [Godot 101 samples with v3](https://github.com/lwz7512/godot-101-rcl)
+- [Novela with Auth0 integration](https://github.com/narative/gatsby-theme-novela/tree/auth0)
 - [Ultronele](https://github.com/lwz7512/ultronele)
 - [Gatsby Netlify Identity Starter](https://github.com/lwz7512/gatsby-netlify-identity-starter)
