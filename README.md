@@ -21,7 +21,7 @@ latest first:
 - [Next static wordpress](https://github.com/lwz7512/next-static-neve)
 - [Ivory Blog](https://github.com/lwz7512/next-ivory-blog)
 - [Minimal Dev.to Blog Publisher](https://github.com/lwz7512/dev_to_blog)
-- [gatsby-starter-wordpress-blog](https://github.com/lwz7512/gatsby-starter-wordpress-blog)
+- [Gatsby Wordpress blog Patch](https://github.com/lwz7512/gatsby-starter-wordpress-blog)
 - [Godot Academy](https://github.com/lwz7512/godot-academy)
 - [love2d vscode plugin](https://github.com/lwz7512/love2d-made-easy)
 - [Asteroid fighter based on love2d](https://github.com/lwz7512/love2d-asteroid-fighter)
