@@ -4,7 +4,7 @@ Welcome to visit my github profile, here you can see all my works and open sourc
 
 ### About
 
-- 🔭 I’m currently working on : [Nex Smooth Doc](https://github.com/lwz7512/next-smooth-doc)
+- 🔭 I’m currently working on : [Next Optimus Readme](https://github.com/lwz7512/next-optimus-readme)
 - 🖊️ My tech blog: [dev.to](https://dev.to/lwz7512)
 - 📦 My portfolio: [wenzhi.me](http://wenzhi.netlify.app/)
 - 🔋 Some projects built when I was in China:[Mobile Apps](https://lwz7512.github.io/works/)
@@ -16,7 +16,9 @@ Welcome to visit my github profile, here you can see all my works and open sourc
 
 latest first:
 
-- [Nex Smooth Doc](https://github.com/lwz7512/next-smooth-doc)
+- [Next Optimus Readme](https://github.com/lwz7512/next-optimus-readme)
+- [Next Smooth Doc](https://github.com/lwz7512/next-smooth-doc)
+- [Next Dev Studio](https://github.com/lwz7512/next-dev-studio)
 - [Next Wordpress with ACF](https://github.com/lwz7512/next-wordpress-movie)
 - [Next static wordpress](https://github.com/lwz7512/next-static-neve)
 - [Ivory Blog](https://github.com/lwz7512/next-ivory-blog)
