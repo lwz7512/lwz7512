@@ -19,6 +19,7 @@ latest first:
 - [Next Optimus Readme](https://github.com/lwz7512/next-optimus-readme)
 - [Next Smooth Doc](https://github.com/lwz7512/next-smooth-doc)
 - [Next Dev Studio](https://github.com/lwz7512/next-dev-studio)
+- [Next LetsPY Today](https://github.com/lwz7512/next-letspy-today)
 - [Next Wordpress with ACF](https://github.com/lwz7512/next-wordpress-movie)
 - [Next static wordpress](https://github.com/lwz7512/next-static-neve)
 - [Ivory Blog](https://github.com/lwz7512/next-ivory-blog)
