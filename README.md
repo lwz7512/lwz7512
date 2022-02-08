@@ -8,7 +8,7 @@ Welcome to my github profile, here you can see all my side works and open source
 - 🖊️ My tech blog: [dev.to](https://dev.to/lwz7512)
 - 📦 My portfolio: [wenzhi.me](http://wenzhi.netlify.app/)
 - 🔋 Some projects built when I was in China:[Mobile Apps](https://lwz7512.github.io/works/)
-- 💬 Ask me about : [Gatsbyjs](https://www.gatsbyjs.com/) or [Next.js](https://nextjs.org/)
+- 💬 Ask me about : [Gatsbyjs](https://www.gatsbyjs.com/) or [Next.js](https://nextjs.org/) or [Phaser](https://phaser.io/)
 - 📫 How to reach me: lwz7512@gmail.com
 - ⚡ Fun facts: `I have a childlike heart`, `I am a single thread animal`
 
