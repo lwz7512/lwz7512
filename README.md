@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to visit my github profile, here you can see all my works and open source stuff.
+Welcome to my github profile, here you can see all my side works and open source contributions.
 
 ### About
 
