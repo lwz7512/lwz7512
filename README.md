@@ -16,6 +16,7 @@ Welcome to my github profile, here you can see all my side works and open source
 
 latest first:
 
+- [Trex Runner Remake](https://github.com/lwz7512/trex-runner-js)
 - [KnightJS](https://github.com/lwz7512/knightjs)
 - [LetsPY Today](https://github.com/lwz7512/react-letspy-today)
 - [Next Optimus Readme](https://github.com/lwz7512/next-optimus-readme)
