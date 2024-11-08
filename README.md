@@ -4,7 +4,7 @@ Welcome to my github profile, here you can see all my side works and open source
 
 ### About
 
-- 🔭 I’m currently working on : [Game Weaver](https://github.com/lwz7512/game-weaver-ide)
+- 🔭 I’m currently working on : [Ohmy Form](https://github.com/lwz7512/ohmy-form)
 - 🖊️ My tech blog: [dev.to](https://dev.to/lwz7512)
 - 📦 My portfolio: [wenzhi.me](http://wenzhi.netlify.app/)
 - 🔋 Some projects built when I was in China:[Mobile Apps](https://lwz7512.github.io/works/)
@@ -16,6 +16,7 @@ Welcome to my github profile, here you can see all my side works and open source
 
 latest first:
 
+- [2D Game Engine GW.js](https://github.com/lwz7512/gw-js-engine)
 - [Trex Runner Remake](https://github.com/lwz7512/trex-runner-js)
 - [KnightJS](https://github.com/lwz7512/knightjs)
 - [LetsPY Today](https://github.com/lwz7512/react-letspy-today)
